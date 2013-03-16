@@ -1,0 +1,1879 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8">
+     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title>Intel</title>
+  	<style type="text/css">
+		body{
+		background-color: black;
+		   color: white;
+            margin: 130px;
+		}
+		h1{
+    font-family:Courier New, "Courier New", monospace
+	font-size:12px;
+	letter-spacing: 1pt;
+	line-height: 0.7em;
+	text-align: left;
+	color:blue;
+	margin: 0px
+		}
+		</style>
+        
+		<meta name="description" content="Information on ingame items">
+        <meta name="author" content="Alonzo Torres">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="shortcut icon" href="/favicon.ico">
+        <link rel="apple-touch-icon" href="/apple-touch-icon.png">
+        <link rel="stylesheet" href="css/style.css">
+        <link rel="stylesheet" id="intel" href="tiptop.css">
+    </head>
+    <body>
+        <header class="page-header">
+            <div class="wrapper">
+               <a href="Hrindex.htm"><h1 class="logo">logo</h1></a>
+            </div>
+		</header>
+        <section class="homepage-top">
+            <div class="homepage-top-noise"></div>
+                <div class="nav1">
+                <a href="about.htm"><h1>About</h1></a>
+                </div>
+				<div class="nav2">
+				<a href="tips.htm"><h1>Tips & Tricks</h1></a>
+				</div>
+				<div class="nav3">
+				<a href="intel.htm"><h1>Intel</h1></a>
+				</div>
+                <div class="nav4">
+                <a href="feedback.htm"><h1>Feedback</h1></a>
+                </div>
+        </section>
+    <h1 style="text-align: center">Portals</h1>
+    <p>Portals are the focus of Ingress. Theoretically they are all points of art and/or knowledge, such as monuments, sculptures, murals, or other landmarks. Libraries, US Post Offices, and other public service points also generally seem to be portals.<br />
+Neutral Portals may be captured for faction use and expansion as well as to earn Action Points <b style="color: #2ECCFA">(AP)</b>. Captured Portals may be linked in the interest of creating Control Fields. Hacking Portals allows agents to acquire Items from them. These items are generally within a level of the portal, though occasionally a higher or lower level item will be obtained. The level of a portal will be can be determined by adding the level of all resonators and dividing by eight. The range of a portal can be determined with the formula 160 m * (Average Resonators Level <b style="color: red">^ 4)</b>.<br />
+Enemy portals will retaliate against any access by the opposing faction, whether Hacking or Attacking.</p>
+<table class="wikitable" border="1" style="float: right;">
+
+<tr>
+<th>Portal Level
+</th>
+<th>Retaliation
+</th>
+<th>Cost To Hack
+</th></tr>
+<tr>
+<td> 1 </td>
+<td> 75 </td>
+<td> 100
+</td></tr>
+<tr>
+<td> 2 </td>
+<td> 150 </td>
+<td> 200
+</td></tr>
+<tr>
+<td> 3 </td>
+<td> 300 </td>
+<td> 300
+</td></tr>
+<tr>
+<td> 4 </td>
+<td> 500 </td>
+<td> 400
+</td></tr>
+<tr>
+<td> 5 </td>
+<td> 750 </td>
+<td> 500
+</td></tr>
+<tr>
+<td> 6 </td>
+<td> 1125 </td>
+<td> 600
+</td></tr>
+<tr>
+<td> 7 </td>
+<td> 1625 </td>
+<td> 700
+</td></tr>
+<tr>
+<td>8 </td>
+<td> 2400 </td>
+<td> 800
+</td></tr></table>
+<br />
+<p>This chart shows the maximum power Portal a single player can create.
+</p>
+<table cellpadding="4" cellspacing="4" class="wikitable" style="text-align:center; border: 1px solid darkgray;">
+
+<tr>
+<th> Player Level
+</th>
+<th colspan="8"><a href="/wiki/Resonator" title="Resonator">Resonators</a> Used
+</th>
+<th> Portal Level
+</th>
+<th> Portal Link Distance
+</th></tr>
+<tr>
+<td>
+</td>
+<th> L<sup>1</sup> </th>
+<th> L<sup>2</sup> </th>
+<th> L<sup>3</sup> </th>
+<th>L<sup>4</sup> </th>
+<th>L<sup>5</sup> </th>
+<th>L<sup>6</sup> </th>
+<th>L<sup>7</sup> </th>
+<th>L<sup>8</sup> </th>
+<th> </th>
+<th>
+</th></tr>
+<tr>
+<td> 1 </td>
+<td> 8 </td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td> 1 </td>
+<td> 160m
+</td></tr>
+<tr>
+<td> 2 </td>
+<td> 4 </td>
+<td> 4 </td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td> 1.5 </td>
+<td> 810m
+</td></tr>
+<tr>
+<td> 3 </td>
+<td> - </td>
+<td> 4 </td>
+<td> 4 </td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td> 2.5 </td>
+<td> 6.3 km
+</td></tr>
+<tr>
+<td> 4 </td>
+<td> - </td>
+<td> - </td>
+<td> 4 </td>
+<td> 4 </td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td> 3.4 </td>
+<td> 24 km
+</td></tr>
+<tr>
+<td> 5 </td>
+<td> - </td>
+<td> - </td>
+<td> 2 </td>
+<td> 4 </td>
+<td> 2 </td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td> 4 </td>
+<td> 41 km
+</td></tr>
+<tr>
+<td> 6 </td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td> 4 </td>
+<td> 2 </td>
+<td> 2 </td>
+<td> - </td>
+<td> - </td>
+<td> 4.75 </td>
+<td> 81.5 km
+</td></tr>
+<tr>
+<td> 7 </td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td> 3 </td>
+<td> 2 </td>
+<td> 2 </td>
+<td> 1 </td>
+<td> - </td>
+<td> 5.125 </td>
+<td> 110.4 km
+</td></tr>
+<tr>
+<td> 8 </td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td> 2 </td>
+<td> 2 </td>
+<td> 2 </td>
+<td> 1 </td>
+<td> 1 </td>
+<td> 5.625 </td>
+<td> 160.2 km
+</td></tr></table>
+<h3> <span class="mw-headline" id="Multiple_Player_Maximums">Multiple Player Maximums</span></h3>
+<p>This is a basic chart displaying Portal <a href="/wiki/Level" title="Level" class="mw-redirect">Levels</a> and the <a href="/wiki/Resonator" title="Resonator">Resonators</a> needed to create them. Relative position of of Resonators around a Portal does not effect its properties. There are significantly more possible configurations, however this chart is simply to highlight the basic Resonator powers.
+</p><p>To calculate the number of players needed and power generated for custom combinations, check out <a rel="nofollow" class="external text" href="http://members.ping.de/~sven/ingress.html">Sven Neuhaus' Portal Calculator</a>.
+</p><p><br />
+</p>
+<table cellpadding="4" cellspacing="4" class="wikitable" style="text-align:center; border: 1px solid darkgray;">
+
+<tr>
+<th colspan="8"><a href="/wiki/Resonator" title="Resonator">Resonator</a> Levels
+</th>
+<th> Portal Level
+</th>
+<th> Portal Link Distance
+</th>
+<th colspan="8">Players Needed
+</th>
+<th>Notes
+</th></tr>
+<tr>
+<th> O<sup>1</sup> </th>
+<th> O<sup>2</sup> </th>
+<th> O<sup>3</sup> </th>
+<th>O<sup>4</sup> </th>
+<th>O<sup>5</sup> </th>
+<th>O<sup>6</sup> </th>
+<th>O<sup>7</sup> </th>
+<th>O<sup>8</sup>
+</th>
+<td>
+</td>
+<td>
+</td>
+<th> L<sup>1</sup> </th>
+<th> L<sup>2</sup> </th>
+<th> L<sup>3</sup> </th>
+<th>L<sup>4</sup> </th>
+<th>L<sup>5</sup> </th>
+<th>L<sup>6</sup> </th>
+<th>L<sup>7</sup> </th>
+<th>L<sup>8</sup>
+</th>
+<td>
+</td></tr>
+<tr>
+<td> 1 </td>
+<td> 1 </td>
+<td> 1 </td>
+<td> 1 </td>
+<td> 1 </td>
+<td> 1 </td>
+<td> 1 </td>
+<td> 1 </td>
+<td> 1 </td>
+<td> 160m </td>
+<td> 1 </td>
+<td> 1 </td>
+<td> 1 </td>
+<td> 1 </td>
+<td> 1 </td>
+<td> 1 </td>
+<td> 1 </td>
+<td> 1 </td>
+<td> Maximum for single Level 1 Player
+</td></tr>
+<tr>
+<td> 2 </td>
+<td> 1 </td>
+<td> 1 </td>
+<td> 1 </td>
+<td> 1 </td>
+<td> 1 </td>
+<td> 1 </td>
+<td> 1 </td>
+<td> 1.1 </td>
+<td> 256m </td>
+<td> - </td>
+<td> 1 </td>
+<td> 1 </td>
+<td> 1 </td>
+<td> 1 </td>
+<td> 1 </td>
+<td> 1 </td>
+<td> 1 </td>
+<td>
+</td></tr>
+<tr>
+<td> 2 </td>
+<td> 2 </td>
+<td> 1 </td>
+<td> 1 </td>
+<td> 1 </td>
+<td> 1 </td>
+<td> 1 </td>
+<td> 1 </td>
+<td> 1.3 </td>
+<td> 391m </td>
+<td> - </td>
+<td> 1 </td>
+<td> 1 </td>
+<td> 1 </td>
+<td> 1 </td>
+<td> 1 </td>
+<td> 1 </td>
+<td> 1 </td>
+<td>
+</td></tr>
+<tr>
+<td> 2 </td>
+<td> 2 </td>
+<td> 2 </td>
+<td> 1 </td>
+<td> 1 </td>
+<td> 1 </td>
+<td> 1 </td>
+<td> 1 </td>
+<td> 1.4 </td>
+<td> 572m </td>
+<td> - </td>
+<td> 1 </td>
+<td> 1 </td>
+<td> 1 </td>
+<td> 1 </td>
+<td> 1 </td>
+<td> 1 </td>
+<td> 1 </td>
+<td>
+</td></tr>
+<tr>
+<td> 2 </td>
+<td> 2 </td>
+<td> 2 </td>
+<td> 2 </td>
+<td> 1 </td>
+<td> 1 </td>
+<td> 1 </td>
+<td> 1 </td>
+<td> 1.5 </td>
+<td> 810m </td>
+<td> - </td>
+<td> 1 </td>
+<td> 1 </td>
+<td> 1 </td>
+<td> 1 </td>
+<td> 1 </td>
+<td> 1 </td>
+<td> 1 </td>
+<td> Maximum for single Level 2 Player
+</td></tr>
+<tr>
+<td> 2 </td>
+<td> 2 </td>
+<td> 2 </td>
+<td> 2 </td>
+<td> 2 </td>
+<td> 1 </td>
+<td> 1 </td>
+<td> 1 </td>
+<td> 1.6 </td>
+<td> 1.1 km </td>
+<td> - </td>
+<td> 1 </td>
+<td> 1 </td>
+<td> 1 </td>
+<td> 1 </td>
+<td> 1 </td>
+<td> 1 </td>
+<td> 1 </td>
+<td>
+</td></tr>
+<tr>
+<td> 2 </td>
+<td> 2 </td>
+<td> 2 </td>
+<td> 2 </td>
+<td> 2 </td>
+<td> 2 </td>
+<td> 1 </td>
+<td> 1 </td>
+<td> 1.8 </td>
+<td> 1.5 km </td>
+<td> - </td>
+<td> 2 </td>
+<td> 2 </td>
+<td> 2 </td>
+<td> 2 </td>
+<td> 2 </td>
+<td> 2 </td>
+<td> 2 </td>
+<td>
+</td></tr>
+<tr>
+<td> 2 </td>
+<td> 2 </td>
+<td> 2 </td>
+<td> 2 </td>
+<td> 2 </td>
+<td> 2 </td>
+<td> 2 </td>
+<td> 1 </td>
+<td> 1.9 </td>
+<td> 2 km </td>
+<td> - </td>
+<td> 2 </td>
+<td> 2 </td>
+<td> 2 </td>
+<td> 2 </td>
+<td> 2 </td>
+<td> 2 </td>
+<td> 2 </td>
+<td>
+</td></tr>
+<tr>
+<td> 2 </td>
+<td> 2 </td>
+<td> 2 </td>
+<td> 2 </td>
+<td> 2 </td>
+<td> 2 </td>
+<td> 2 </td>
+<td> 2 </td>
+<td> 2.0 </td>
+<td> 2.6 km </td>
+<td> - </td>
+<td> 2 </td>
+<td> 2 </td>
+<td> 2 </td>
+<td> 2 </td>
+<td> 2 </td>
+<td> 2 </td>
+<td> 2 </td>
+<td>
+</td></tr>
+<tr>
+<td> 3 </td>
+<td> 2 </td>
+<td> 2 </td>
+<td> 2 </td>
+<td> 2 </td>
+<td> 2 </td>
+<td> 2 </td>
+<td> 2 </td>
+<td> 2.1 </td>
+<td> 3.3 km </td>
+<td> - </td>
+<td> - </td>
+<td> 2 </td>
+<td> 2 </td>
+<td> 2 </td>
+<td> 2 </td>
+<td> 2 </td>
+<td> 2 </td>
+<td>
+</td></tr>
+<tr>
+<td> 3 </td>
+<td> 3 </td>
+<td> 2 </td>
+<td> 2 </td>
+<td> 2 </td>
+<td> 2 </td>
+<td> 2 </td>
+<td> 2 </td>
+<td> 2.3 </td>
+<td> 4.1 km </td>
+<td> - </td>
+<td> - </td>
+<td> 2 </td>
+<td> 2 </td>
+<td> 2 </td>
+<td> 2 </td>
+<td> 2 </td>
+<td> 2 </td>
+<td>
+</td></tr>
+<tr>
+<td> 3 </td>
+<td> 3 </td>
+<td> 3 </td>
+<td> 2 </td>
+<td> 2 </td>
+<td> 2 </td>
+<td> 2 </td>
+<td> 2 </td>
+<td> 2.4 </td>
+<td> 5.1 km </td>
+<td> - </td>
+<td> - </td>
+<td> 2 </td>
+<td> 2 </td>
+<td> 2 </td>
+<td> 2 </td>
+<td> 2 </td>
+<td> 2 </td>
+<td>
+</td></tr>
+<tr>
+<td> 3 </td>
+<td> 3 </td>
+<td> 3 </td>
+<td> 3 </td>
+<td> 2 </td>
+<td> 2 </td>
+<td> 2 </td>
+<td> 2 </td>
+<td> 2.5 </td>
+<td> 6.3 km </td>
+<td> - </td>
+<td> - </td>
+<td> 1 </td>
+<td> 1 </td>
+<td> 1 </td>
+<td> 1 </td>
+<td> 1 </td>
+<td> 1 </td>
+<td> Maximum for single Level 3 Player
+</td></tr>
+<tr>
+<td> 3 </td>
+<td> 3 </td>
+<td> 3 </td>
+<td> 3 </td>
+<td> 3 </td>
+<td> 2 </td>
+<td> 2 </td>
+<td> 2 </td>
+<td> 2.6 </td>
+<td> 7.6 km </td>
+<td> - </td>
+<td> - </td>
+<td> 2 </td>
+<td> 2 </td>
+<td> 2 </td>
+<td> 2 </td>
+<td> 2 </td>
+<td> 2 </td>
+<td>
+</td></tr>
+<tr>
+<td> 3 </td>
+<td> 3 </td>
+<td> 3 </td>
+<td> 3 </td>
+<td> 3 </td>
+<td> 3 </td>
+<td> 2 </td>
+<td> 2 </td>
+<td> 2.8 </td>
+<td> 9.2 km </td>
+<td> - </td>
+<td> - </td>
+<td> 2 </td>
+<td> 2 </td>
+<td> 2 </td>
+<td> 2 </td>
+<td> 2 </td>
+<td> 2 </td>
+<td>
+</td></tr>
+<tr>
+<td> 3 </td>
+<td> 3 </td>
+<td> 3 </td>
+<td> 3 </td>
+<td> 3 </td>
+<td> 3 </td>
+<td> 3 </td>
+<td> 2 </td>
+<td> 2.9 </td>
+<td> 10.9 km </td>
+<td> - </td>
+<td> - </td>
+<td> 2 </td>
+<td> 2 </td>
+<td> 2 </td>
+<td> 2 </td>
+<td> 2 </td>
+<td> 2 </td>
+<td>
+</td></tr>
+<tr>
+<td> 3 </td>
+<td> 3 </td>
+<td> 3 </td>
+<td> 3 </td>
+<td> 3 </td>
+<td> 3 </td>
+<td> 3 </td>
+<td> 3 </td>
+<td> 3.0 </td>
+<td> 13 km </td>
+<td> - </td>
+<td> - </td>
+<td> 2 </td>
+<td> 2 </td>
+<td> 2 </td>
+<td> 2 </td>
+<td> 2 </td>
+<td> 2 </td>
+<td>
+</td></tr>
+<tr>
+<td> 4 </td>
+<td> 3 </td>
+<td> 3 </td>
+<td> 3 </td>
+<td> 3 </td>
+<td> 3 </td>
+<td> 3 </td>
+<td> 3 </td>
+<td> 3.1 </td>
+<td> 15.3 km </td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td> 2 </td>
+<td> 2 </td>
+<td> 2 </td>
+<td> 2 </td>
+<td> 2 </td>
+<td>
+</td></tr>
+<tr>
+<td> 4 </td>
+<td> 4 </td>
+<td> 3 </td>
+<td> 3 </td>
+<td> 3 </td>
+<td> 3 </td>
+<td> 3 </td>
+<td> 3 </td>
+<td> 3.3 </td>
+<td> 17.9 km </td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td> 2 </td>
+<td> 2 </td>
+<td> 2 </td>
+<td> 2 </td>
+<td> 2 </td>
+<td>
+</td></tr>
+<tr>
+<td> 4 </td>
+<td> 4</td>
+<td> 4 </td>
+<td> 3 </td>
+<td> 3 </td>
+<td> 3 </td>
+<td> 3 </td>
+<td> 3 </td>
+<td> 3.4 </td>
+<td> 20.8 km </td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td> 2 </td>
+<td> 2 </td>
+<td> 2 </td>
+<td> 2 </td>
+<td> 2 </td>
+<td>
+</td></tr>
+<tr>
+<td> 4 </td>
+<td> 4</td>
+<td> 4 </td>
+<td> 4 </td>
+<td> 3 </td>
+<td> 3 </td>
+<td> 3 </td>
+<td> 3 </td>
+<td> 3.5 </td>
+<td> 24.0 km </td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td> 1 </td>
+<td> 1 </td>
+<td> 1 </td>
+<td> 1 </td>
+<td> 1 </td>
+<td> Maximum for single Level 4 Player
+</td></tr>
+<tr>
+<td> 4 </td>
+<td> 4</td>
+<td> 4 </td>
+<td> 4 </td>
+<td> 4 </td>
+<td> 3 </td>
+<td> 3 </td>
+<td> 3 </td>
+<td> 3.6 </td>
+<td> 27.6 km </td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td> 2 </td>
+<td> 2 </td>
+<td> 2 </td>
+<td> 2 </td>
+<td> 2 </td>
+<td>
+</td></tr>
+<tr>
+<td> 4 </td>
+<td> 4</td>
+<td> 4 </td>
+<td> 4 </td>
+<td> 4 </td>
+<td> 4 </td>
+<td> 3 </td>
+<td> 3 </td>
+<td> 3.8 </td>
+<td> 31.6 km </td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td> 2 </td>
+<td> 2 </td>
+<td> 2 </td>
+<td> 2 </td>
+<td> 2 </td>
+<td>
+</td></tr>
+<tr>
+<td> 4 </td>
+<td> 4</td>
+<td> 4 </td>
+<td> 4 </td>
+<td> 4 </td>
+<td> 4 </td>
+<td> 4 </td>
+<td> 3 </td>
+<td> 3.9 </td>
+<td> 36.1 km </td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td> 2 </td>
+<td> 2 </td>
+<td> 2 </td>
+<td> 2 </td>
+<td> 2 </td>
+<td>
+</td></tr>
+<tr>
+<td> 4 </td>
+<td> 4</td>
+<td> 4 </td>
+<td> 4 </td>
+<td> 4 </td>
+<td> 4 </td>
+<td> 4 </td>
+<td> 4 </td>
+<td> 4.0 </td>
+<td> 41.0 km </td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td> 2 </td>
+<td> 2 </td>
+<td> 2 </td>
+<td> 2 </td>
+<td> 2 </td>
+<td>
+</td></tr>
+<tr>
+<td> 5 </td>
+<td> 4</td>
+<td> 4 </td>
+<td> 4 </td>
+<td> 4 </td>
+<td> 4 </td>
+<td> 4 </td>
+<td> 4 </td>
+<td> 4.1 </td>
+<td> 46.3 km </td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td> 2 </td>
+<td> 2 </td>
+<td> 2 </td>
+<td> 2 </td>
+<td>
+</td></tr>
+<tr>
+<td> 5 </td>
+<td> 5</td>
+<td> 4 </td>
+<td> 4 </td>
+<td> 4 </td>
+<td> 4 </td>
+<td> 4 </td>
+<td> 4 </td>
+<td> 4.3 </td>
+<td> 52.2 km </td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td> 2 </td>
+<td> 2 </td>
+<td> 2 </td>
+<td> 2 </td>
+<td>
+</td></tr>
+<tr>
+<td> 5 </td>
+<td> 5</td>
+<td> 5 </td>
+<td> 4 </td>
+<td> 4 </td>
+<td> 4 </td>
+<td> 4 </td>
+<td> 4 </td>
+<td> 4.4 </td>
+<td> 58.6 km </td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td> 2 </td>
+<td> 2 </td>
+<td> 2 </td>
+<td> 2 </td>
+<td>
+</td></tr>
+<tr>
+<td> 5 </td>
+<td> 5</td>
+<td> 5 </td>
+<td> 5 </td>
+<td> 4 </td>
+<td> 4 </td>
+<td> 4 </td>
+<td> 4 </td>
+<td> 4.5 </td>
+<td> 65.6 km </td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td> 2 </td>
+<td> 2 </td>
+<td> 2 </td>
+<td> 2 </td>
+<td>
+</td></tr>
+<tr>
+<td> 5 </td>
+<td> 5</td>
+<td> 5 </td>
+<td> 5 </td>
+<td> 5 </td>
+<td> 4 </td>
+<td> 4 </td>
+<td> 4 </td>
+<td> 4.6 </td>
+<td> 73.2 km </td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td> 3 </td>
+<td> 3 </td>
+<td> 3 </td>
+<td> 3 </td>
+<td>
+</td></tr>
+<tr>
+<td> 5 </td>
+<td> 5</td>
+<td> 5 </td>
+<td> 5 </td>
+<td> 5 </td>
+<td> 5 </td>
+<td> 4 </td>
+<td> 4 </td>
+<td> 4.8 </td>
+<td> 81.5 km </td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td> 3 </td>
+<td> 3 </td>
+<td> 3 </td>
+<td> 3 </td>
+<td>
+</td></tr>
+<tr>
+<td> 5 </td>
+<td> 5</td>
+<td> 5 </td>
+<td> 5 </td>
+<td> 5 </td>
+<td> 5 </td>
+<td> 5 </td>
+<td> 4 </td>
+<td> 4.9 </td>
+<td> 90.4 km </td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td> 4 </td>
+<td> 4 </td>
+<td> 4 </td>
+<td> 4 </td>
+<td>
+</td></tr>
+<tr>
+<td> 5 </td>
+<td> 5</td>
+<td> 5 </td>
+<td> 5 </td>
+<td> 5 </td>
+<td> 5 </td>
+<td> 5 </td>
+<td> 5 </td>
+<td> 5 </td>
+<td> 100 km </td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td> 4 </td>
+<td> 4 </td>
+<td> 4 </td>
+<td>
+</td></tr>
+<tr>
+<td> 6 </td>
+<td> 5</td>
+<td> 5 </td>
+<td> 5 </td>
+<td> 5 </td>
+<td> 5 </td>
+<td> 5 </td>
+<td> 5 </td>
+<td> 5.1 </td>
+<td> 110.4 km </td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td> 4 </td>
+<td> 4 </td>
+<td> 4 </td>
+<td>
+</td></tr>
+<tr>
+<td> 6 </td>
+<td> 6</td>
+<td> 5 </td>
+<td> 5 </td>
+<td> 5 </td>
+<td> 5 </td>
+<td> 5 </td>
+<td> 5 </td>
+<td> 5.2 </td>
+<td> 121.6 km </td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td> 3 </td>
+<td> 3 </td>
+<td> 3 </td>
+<td>
+</td></tr>
+<tr>
+<td> 6 </td>
+<td> 6</td>
+<td> 6 </td>
+<td> 5 </td>
+<td> 5 </td>
+<td> 5 </td>
+<td> 5 </td>
+<td> 5 </td>
+<td> 5.4 </td>
+<td> 133.5 km </td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td> 3 </td>
+<td> 3 </td>
+<td> 3 </td>
+<td>
+</td></tr>
+<tr>
+<td> 6 </td>
+<td> 6</td>
+<td> 6 </td>
+<td> 6 </td>
+<td> 5 </td>
+<td> 5 </td>
+<td> 5 </td>
+<td> 5 </td>
+<td> 5.5 </td>
+<td> 146.4 km </td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td> 2 </td>
+<td> 2 </td>
+<td> 2 </td>
+<td>
+</td></tr>
+<tr>
+<td> 6 </td>
+<td> 6</td>
+<td> 6 </td>
+<td> 6 </td>
+<td> 6 </td>
+<td> 5 </td>
+<td> 5 </td>
+<td> 5 </td>
+<td> 5.6 </td>
+<td> 160.2 km </td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td> 3 </td>
+<td> 3 </td>
+<td> 3 </td>
+<td>
+</td></tr>
+<tr>
+<td> 6 </td>
+<td> 6</td>
+<td> 6 </td>
+<td> 6 </td>
+<td> 6 </td>
+<td> 6 </td>
+<td> 5 </td>
+<td> 5 </td>
+<td> 5.6 </td>
+<td> 160.2 km </td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td> 3 </td>
+<td> 3 </td>
+<td> 3 </td>
+<td>
+</td></tr>
+<tr>
+<td> 6 </td>
+<td> 6</td>
+<td> 6 </td>
+<td> 6 </td>
+<td> 6 </td>
+<td> 6 </td>
+<td> 6 </td>
+<td> 5 </td>
+<td> 5.8 </td>
+<td> 174.9 km </td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td> 4 </td>
+<td> 4 </td>
+<td> 4 </td>
+<td>
+</td></tr>
+<tr>
+<td> 6 </td>
+<td> 6</td>
+<td> 6 </td>
+<td> 6 </td>
+<td> 6 </td>
+<td> 6 </td>
+<td> 6 </td>
+<td> 6 </td>
+<td> 6 </td>
+<td> 207.4 km </td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td> 4 </td>
+<td> 4 </td>
+<td> 4 </td>
+<td>
+</td></tr>
+<tr>
+<td> 7 </td>
+<td> 6 </td>
+<td> 6 </td>
+<td> 6 </td>
+<td> 6 </td>
+<td> 6 </td>
+<td> 6 </td>
+<td> 6 </td>
+<td> 6.1 </td>
+<td> 225.2 km </td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td> 4 </td>
+<td> 4 </td>
+<td>
+</td></tr>
+<tr>
+<td> 7 </td>
+<td> 7 </td>
+<td> 6 </td>
+<td> 6 </td>
+<td> 6 </td>
+<td> 6 </td>
+<td> 6 </td>
+<td> 6 </td>
+<td> 6.3 </td>
+<td> 244.1 km </td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td> 4 </td>
+<td> 4 </td>
+<td>
+</td></tr>
+<tr>
+<td> 7 </td>
+<td> 7 </td>
+<td> 7 </td>
+<td> 6 </td>
+<td> 6 </td>
+<td> 6 </td>
+<td> 6 </td>
+<td> 6 </td>
+<td> 6.4 </td>
+<td> 264.3 km </td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td> 4 </td>
+<td> 4</td>
+<td>
+</td></tr>
+<tr>
+<td> 7 </td>
+<td> 7 </td>
+<td> 7 </td>
+<td> 7 </td>
+<td> 6 </td>
+<td> 6 </td>
+<td> 6 </td>
+<td> 6 </td>
+<td> 6.5 </td>
+<td> 285.6 km </td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td> 4 </td>
+<td> 4 </td>
+<td>
+</td></tr>
+<tr>
+<td> 7 </td>
+<td> 7 </td>
+<td> 7 </td>
+<td> 7 </td>
+<td> 7 </td>
+<td> 6 </td>
+<td> 6 </td>
+<td> 6 </td>
+<td> 6.6 </td>
+<td> 308.2 km </td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td> 5 </td>
+<td> 5 </td>
+<td>
+</td></tr>
+<tr>
+<td> 7 </td>
+<td> 7 </td>
+<td> 7 </td>
+<td> 7 </td>
+<td> 7 </td>
+<td> 7 </td>
+<td> 6 </td>
+<td> 6 </td>
+<td> 6.8 </td>
+<td> 332.2 km </td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td> 6 </td>
+<td> 6 </td>
+<td>
+</td></tr>
+<tr>
+<td> 7 </td>
+<td> 7 </td>
+<td> 7 </td>
+<td> 7 </td>
+<td> 7 </td>
+<td> 7 </td>
+<td> 7 </td>
+<td> 6 </td>
+<td> 6.9 </td>
+<td> 357.4 km </td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td> 7 </td>
+<td> 7 </td>
+<td>
+</td></tr>
+<tr>
+<td> 7 </td>
+<td> 7 </td>
+<td> 7 </td>
+<td> 7 </td>
+<td> 7 </td>
+<td> 7 </td>
+<td> 7 </td>
+<td> 7 </td>
+<td> 7.0 </td>
+<td> 384.2 km </td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td> 8 </td>
+<td> 8 </td>
+<td>
+</td></tr>
+<tr>
+<td> 8 </td>
+<td> 7 </td>
+<td> 7 </td>
+<td> 7 </td>
+<td> 7 </td>
+<td> 7 </td>
+<td> 7 </td>
+<td> 7 </td>
+<td> 7.1 </td>
+<td> 412.3 km </td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td> 7 </td>
+<td>
+</td></tr>
+<tr>
+<td> 8 </td>
+<td> 8 </td>
+<td> 7 </td>
+<td> 7 </td>
+<td> 7 </td>
+<td> 7 </td>
+<td> 7 </td>
+<td> 7 </td>
+<td> 7.3 </td>
+<td> 442.1 km </td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td> 6 </td>
+<td>
+</td></tr>
+<tr>
+<td> 8 </td>
+<td> 8 </td>
+<td> 8 </td>
+<td> 7 </td>
+<td> 7 </td>
+<td> 7 </td>
+<td> 7 </td>
+<td> 7 </td>
+<td> 7.4 </td>
+<td> 473.3 km </td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td> 5 </td>
+<td>
+</td></tr>
+<tr>
+<td> 8 </td>
+<td> 8 </td>
+<td> 8 </td>
+<td> 8 </td>
+<td> 7 </td>
+<td> 7 </td>
+<td> 7 </td>
+<td> 7 </td>
+<td> 7.5 </td>
+<td> 506.3 km </td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td> 4 </td>
+<td> Maximum level for 4 players
+</td></tr>
+<tr>
+<td> 8 </td>
+<td> 8 </td>
+<td> 8 </td>
+<td> 8 </td>
+<td> 8 </td>
+<td> 7 </td>
+<td> 7 </td>
+<td> 7 </td>
+<td> 7.6 </td>
+<td> 540.9 km </td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td> 5 </td>
+<td> Maximum level for 5 players
+</td></tr>
+<tr>
+<td> 8 </td>
+<td> 8 </td>
+<td> 8 </td>
+<td> 8 </td>
+<td> 8 </td>
+<td> 8 </td>
+<td> 7 </td>
+<td> 7 </td>
+<td> 7.8 </td>
+<td> 577.2 km </td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td> 6 </td>
+<td> Maximum level for 6 players
+</td></tr>
+<tr>
+<td> 8 </td>
+<td> 8 </td>
+<td> 8 </td>
+<td> 8 </td>
+<td> 8 </td>
+<td> 8 </td>
+<td> 8 </td>
+<td> 7 </td>
+<td> 7.9 </td>
+<td> 615.4 km </td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td> 7 </td>
+<td> Maximum level for 7 players
+</td></tr>
+<tr>
+<td> 8 </td>
+<td> 8 </td>
+<td> 8 </td>
+<td> 8 </td>
+<td> 8 </td>
+<td> 8 </td>
+<td> 8 </td>
+<td> 8 </td>
+<td> 8 </td>
+<td> 655.4 km </td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td> 8 </td>
+<td> Maximum level for 8 players
+</td></tr></table>
+<p>Here is a table showing only player maximums:
+</p>
+<table cellpadding="4" cellspacing="4" class="wikitable" style="text-align:center; border: 1px solid darkgray;">
+
+<tr>
+<th colspan="8"><a href="http://ingresswiki.org/wiki/Resonator" title="Resonator">Resonator</a> Levels
+</th>
+<th> Portal Level
+</th>
+<th> Portal Link Distance
+</th>
+<th colspan="8">Players Needed
+</th>
+<th>Notes
+</th></tr>
+<tr>
+<th> O<sup>1</sup> </th>
+<th> O<sup>2</sup> </th>
+<th> O<sup>3</sup> </th>
+<th>O<sup>4</sup> </th>
+<th>O<sup>5</sup> </th>
+<th>O<sup>6</sup> </th>
+<th>O<sup>7</sup> </th>
+<th>O<sup>8</sup>
+</th>
+<td>
+</td>
+<td>
+</td>
+<th> L<sup>1</sup> </th>
+<th> L<sup>2</sup> </th>
+<th> L<sup>3</sup> </th>
+<th>L<sup>4</sup> </th>
+<th>L<sup>5</sup> </th>
+<th>L<sup>6</sup> </th>
+<th>L<sup>7</sup> </th>
+<th>L<sup>8</sup>
+</th>
+<td>
+</td></tr>
+<tr>
+<td> 1 </td>
+<td> 1 </td>
+<td> 1 </td>
+<td> 1 </td>
+<td> 1 </td>
+<td> 1 </td>
+<td> 1 </td>
+<td> 1 </td>
+<td> 1 </td>
+<td> 160 m </td>
+<td> 1 </td>
+<td> 1 </td>
+<td> 1 </td>
+<td> 1 </td>
+<td> 1 </td>
+<td> 1 </td>
+<td> 1 </td>
+<td> 1 </td>
+<td> Maximum for single Level 1 Player
+</td></tr>
+<tr>
+<td> 2 </td>
+<td> 2 </td>
+<td> 2 </td>
+<td> 2 </td>
+<td> 1 </td>
+<td> 1 </td>
+<td> 1 </td>
+<td> 1 </td>
+<td> 1.5 </td>
+<td> 810 m </td>
+<td> - </td>
+<td> 1 </td>
+<td> 1 </td>
+<td> 1 </td>
+<td> 1 </td>
+<td> 1 </td>
+<td> 1 </td>
+<td> 1 </td>
+<td> Maximum for single Level 2 Player
+</td></tr>
+<tr>
+<td> 3 </td>
+<td> 3 </td>
+<td> 3 </td>
+<td> 3 </td>
+<td> 2 </td>
+<td> 2 </td>
+<td> 2 </td>
+<td> 2 </td>
+<td> 2.5 </td>
+<td> 6.3 km </td>
+<td> - </td>
+<td> - </td>
+<td> 1 </td>
+<td> 1 </td>
+<td> 1 </td>
+<td> 1 </td>
+<td> 1 </td>
+<td> 1 </td>
+<td> Maximum for single Level 3 Player
+</td></tr>
+<tr>
+<td> 4 </td>
+<td> 4</td>
+<td> 4 </td>
+<td> 4 </td>
+<td> 3 </td>
+<td> 3 </td>
+<td> 3 </td>
+<td> 3 </td>
+<td> 3.5 </td>
+<td> 24 km </td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td> 1 </td>
+<td> 1 </td>
+<td> 1 </td>
+<td> 1 </td>
+<td> 1 </td>
+<td> Maximum for single Level 4 Player
+</td></tr>
+<tr>
+<td> 5 </td>
+<td> 5 </td>
+<td> 4 </td>
+<td> 4 </td>
+<td> 4 </td>
+<td> 4 </td>
+<td> 3 </td>
+<td> 3 </td>
+<td> 4 </td>
+<td> 41 km </td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td> 1 </td>
+<td> 1 </td>
+<td> 1 </td>
+<td> 1 </td>
+<td> Maximum for single Level 5 Player
+</td></tr>
+<tr>
+<td> 6 </td>
+<td> 6 </td>
+<td> 5 </td>
+<td> 5 </td>
+<td> 4 </td>
+<td> 4 </td>
+<td> 4 </td>
+<td> 4 </td>
+<td> 4.75 </td>
+<td> 81.5 km </td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td> 1 </td>
+<td> 1 </td>
+<td> 1 </td>
+<td> Maximum for single Level 6 Player
+</td></tr>
+<tr>
+<td> 7 </td>
+<td> 6 </td>
+<td> 6 </td>
+<td> 5 </td>
+<td> 5 </td>
+<td> 4 </td>
+<td> 4 </td>
+<td> 4 </td>
+<td> 5.125 /td>
+<td> 110.4 km </td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td> 1 </td>
+<td> 1 </td>
+<td> Maximum for single Level 7 Player
+</td></tr>
+<tr>
+<td> 8 </td>
+<td> 7 </td>
+<td> 6 </td>
+<td> 6 </td>
+<td> 5 </td>
+<td> 5 </td>
+<td> 4 </td>
+<td> 4 </td>
+<td> 5.625 </td>
+<td> 160.2 km </td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td> 1 </td>
+<td> Maximum for single Level 8 Player
+</td></tr>
+<tr>
+<td> 8 </td>
+<td> 8 </td>
+<td> 7 </td>
+<td> 7 </td>
+<td> 6 </td>
+<td> 6 </td>
+<td> 6 </td>
+<td> 6 </td>
+<td> 6.75 </td>
+<td> 332.2 km </td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td> 2 </td>
+<td> Maximum level for 2 players
+</td></tr>
+<tr>
+<td> 8 </td>
+<td> 8 </td>
+<td> 8 </td>
+<td> 7 </td>
+<td> 7 </td>
+<td> 7 </td>
+<td> 6 </td>
+<td> 6 </td>
+<td> 7.125 </td>
+<td> 412.3 km </td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td> 3 </td>
+<td> Maximum level for 3 players
+</td></tr>
+<tr>
+<td> 8 </td>
+<td> 8 </td>
+<td> 8 </td>
+<td> 8 </td>
+<td> 7 </td>
+<td> 7 </td>
+<td> 7 </td>
+<td> 7 </td>
+<td> 7.5 </td>
+<td> 506.3 km </td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td> 4 </td>
+<td> Maximum level for 4 players
+</td></tr>
+<tr>
+<td> 8 </td>
+<td> 8 </td>
+<td> 8 </td>
+<td> 8 </td>
+<td> 8 </td>
+<td> 7 </td>
+<td> 7 </td>
+<td> 7 </td>
+<td> 7.625 </td>
+<td> 540.9 km </td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td> 5 </td>
+<td> Maximum level for 5 players
+</td></tr>
+<tr>
+<td> 8 </td>
+<td> 8 </td>
+<td> 8 </td>
+<td> 8 </td>
+<td> 8 </td>
+<td> 8 </td>
+<td> 7 </td>
+<td> 7 </td>
+<td> 7.75 </td>
+<td> 577.2 km </td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td> 6 </td>
+<td> Maximum level for 6 players
+</td></tr>
+<tr>
+<td> 8 </td>
+<td> 8 </td>
+<td> 8 </td>
+<td> 8 </td>
+<td> 8 </td>
+<td> 8 </td>
+<td> 8 </td>
+<td> 7 </td>
+<td> 7.875 </td>
+<td> 615.4 km </td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td> 7 </td>
+<td> Maximum level for 7 players
+</td></tr>
+<tr>
+<td> 8 </td>
+<td> 8 </td>
+<td> 8 </td>
+<td> 8 </td>
+<td> 8 </td>
+<td> 8 </td>
+<td> 8 </td>
+<td> 8 </td>
+<td> 8 </td>
+<td> 655.4 km </td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td> 8 </td>
+<td> Maximum level for 8 players
+</td></tr></table>
+
+       <h2>Enemy Portals</h2>
+       <h2>Nutral Portals</h2>
+       <h2>Friendly Portals</h2>
+       <hr />
+    <h1 style="text-align: center">Resonators</h1>
+      <h2 style="color: #FC0">L1 Resonator</h2><br />
+	  <div align="center"><img src="images/Resonators/L1 Resonator.png" alt="Res1" width="225" height="401" style="border-width: 0" /></div>
+      <h2 style="color: #F90">L2 Resonator</h2><br />
+      <div align="center"><img src="images/Resonators/L2 Resonator.png" alt="Res2" width="225" height="401" style="border-width: 0" /></div>
+<h2 style=" color: #FF4500">L3 Resonator</h2><br />
+      <div align="center"><img src="images/Resonators/L3 Resonator.png" alt="Res3" width="225" height="401" style="border-width: 0" /></div>
+<h2 style="color: red">L4 Resonator</h2><br />
+      <div align="center"><img src="images/Resonators/L4 Resonator.png" alt="Res4" width="225" height="401" style="border-width: 0" /></div>
+<h2 style="color: #FF1CAE">L5 Resonator</h2><br />
+      <div align="center"><img src="images/Resonators/L5 Resonator.png" alt="Res5" width="225" height="401" style="border-width: 0" /></div>
+<h2 style="color: #CC00FF">L6 Resonator</h2><br />
+      <div align="center"><img src="images/Resonators/L6 Resonator.png" alt="Res6" width="225" height="401" style="border-width: 0" /></div>
+<h2 style="color: #9900FF">L7 Resonator</h2><br />
+      <div align="center"><img src="images/Resonators/L7 Resonator.png" alt="Res7" width="225" height="401" style="border-width: 0" /></div>
+<h2 style="color: #6633FF">L8 Resonator</h2><br />
+      <div align="center"><img src="images/Resonators/L8 Resonator.jpg" alt="Res8" width="225" height="401" style="border-width: 0" /></div>
+      <hr />
+   <h1 style="text-align: center">XMP'S</h1>
+     <h2 style="color: #FC0">L1 XMP</h2><br />
+     <div align="center"><img src="images/Xmps/L1 Xmp.png" alt="Res8" width="225" height="401" style="border-width: 0" /></div>
+<h2 style="color: #F90 ">L2 XMP</h2><br />
+      <div align="center"><img src="images/Xmps/L2 Xmp.png" alt="Res8" width="225" height="401" style="border-width: 0" /></div>
+     <h2 style="color: #FF4500">L3 XMP</h2><br />
+      <div align="center"><img src="images/Xmps/L3 Xmp.png" alt="Res8" width="225" height="401" style="border-width: 0" /></div>
+     <h2 style="color: red">L4 XMP</h2><br />
+      <div align="center"><img src="images/Xmps/L4 Xmp.png" alt="Res8" width="225" height="401" style="border-width: 0" /></div>
+     <h2 style="color: #FF1CAE">L5 XMP</h2><br />
+      <div align="center"><img src="images/Xmps/L5 Xmp.png" alt="Res8" width="225" height="401" style="border-width: 0" /></div>
+     <h2 style="color: #CC00FF">L6 XMP</h2><br />
+      <div align="center"><img src="images/Xmps/L6 Xmp.png" alt="Res8" width="225" height="401" style="border-width: 0" /></div>
+     <h2 style="color: #9900FF">L7 XMP</h2><br />
+      <div align="center"><img src="images/Xmps/L7 Xmp.png" alt="Res8" width="225" height="401" /></div>
+     <h2 style="color: #6633FF">L8 XMP</h2><br />
+      <div align="center"> 
+        <h2><img src="images/Xmps/L8 Xmp.png" alt="Res8" width="225" height="401" style="border-width: 0" /></h2>
+      </div>
+
+</body>
+
+
+</html>
