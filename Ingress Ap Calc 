@@ -6,7 +6,7 @@
  {
      char rerun = "";//character rerun with a void value
      int ap;
-     int ap_levels[] = { 10000, 30000, 70000, 150000, 300000, 600000, 1200000 };
+     int ap_levels[] = { 10000, 30000, 70000, 150000, 300000, 600000, 1200000 }; // array
      int levels = sizeof(ap_levels) / sizeof(ap_levels[0]);
      int level;
 
