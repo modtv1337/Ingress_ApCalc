@@ -11,10 +11,15 @@
      int ap_levels[] = { 10000, 30000, 70000, 150000, 300000, 600000, 1200000 }; // array
      int levels = sizeof(ap_levels) / sizeof(ap_levels[0]);
      int level;
+     int month;
+     int day;
+     int year;
      do //start of the do while loop
      {
           printf("Enter your Total AP here: ");
           scanf("%d", &ap); //%d = integer
+          printf("Enter the date Here: ");
+          scanf("%2d%*c%2d%*c%4d%*c", &month, &day, &year);// inputing date requirements to be later used in structure?
      for (level = 0; level < levels; level++) //for loop
      if (ap < ap_levels[level]) break; // if ap is less then levels terminate
 
@@ -30,4 +35,5 @@
     system("PAUSE");
     return 0;
  }
+
 
