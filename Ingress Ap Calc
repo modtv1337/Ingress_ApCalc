@@ -28,7 +28,7 @@
          printf("ap to next level: %d\n", (ap_levels[level] - ap));
          printf("Do you want to run this again? y/n: ");
          fflush(stdin);// For some reason if i dont flush the y/n statement wont work?!?!?!
-         scanf("%c", &rerun);// %c is looking for a char rather then an intiger "%d"
+         scanf("%c", &rerun);// %c is looking for a char rather then an integer "%d"
         }
      } while(rerun != 'n' );
 
